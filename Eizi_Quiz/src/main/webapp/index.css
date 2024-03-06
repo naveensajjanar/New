@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.img{
+	background-image: url(images.jpg);
+}
+form
+{
+	margin-top:0;
+	margin-left:350px;
+	margin-right:350px;
+background-color: white;
+border-radius: 10px;
+box-shadow: black;
+box-shadow:  0 20px 20px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+.log{
+	 width:10px;
+    height: 10px;
+    font-size: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 100px;
+}

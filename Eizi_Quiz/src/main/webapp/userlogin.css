@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.image{
+	background-image: url(image12.jpg);
+}
+
+form
+{
+	margin-top:0;
+	margin-left:350px;
+	margin-right:350px;
+background-color: white;
+border-radius: 10px;
+
+box-shadow: black;
+box-shadow:  0 20px 20px 0 rgba(0, 0, 0, 0.5);
+
+}
+	
