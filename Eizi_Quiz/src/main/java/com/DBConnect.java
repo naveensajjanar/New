@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 
 public class DBConnect {
 	static String URL="localhost:3306/";
-	static String DATABASE_NAME="codewarrior1";
+	static String DATABASE_NAME="codewarrior1";//data base name
 	static String USERNAME="root";
-	static String PASSWORD="Sajjanar@123";
+	static String PASSWORD="Sajjanar@123";//workbench password
 	
 	public static Connection getConnection(){
 		Connection con=null;
